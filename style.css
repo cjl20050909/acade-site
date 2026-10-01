@@ -162,8 +162,8 @@ section h3:first-of-type {
 
 .education-row {
   display: grid;
-  grid-template-columns: 120px 112px 126px minmax(0, 1fr);
-  column-gap: 16px;
+  grid-template-columns: 114px 110px 122px minmax(0, 1fr);
+  column-gap: 12px;
   align-items: start;
   font-size: 0.94em;
   line-height: 1.7;
