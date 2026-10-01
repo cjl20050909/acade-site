@@ -175,7 +175,8 @@ section h3:first-of-type {
 }
 
 .education-school,
-.education-college {
+.education-college,
+.education-program {
   white-space: nowrap;
 }
 
@@ -346,5 +347,9 @@ footer p {
 
   .education-time {
     margin-bottom: 2px;
+  }
+
+  .education-program {
+    white-space: normal;
   }
 }
